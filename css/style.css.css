@@ -1,0 +1,36 @@
+.text-block {
+    margin-left:60px;
+    }
+
+    .info__img {
+        margin-bottom: 20px;
+        margin: 0;
+        padding-top: 10%;
+        
+    }
+    
+    .info__title {
+        margin-left: 150px;
+        margin-bottom: 10px;
+        font-size: 18px;
+        text-transform: capitalize;
+        padding-top: 1px;
+        margin-top: -150px;
+       
+        
+    }
+    
+    .info__text {
+        margin-left: 150px;
+        font-size: 17px;
+        color: #000;
+    }
+    
+    .info__item {
+        border: 20px solid transparent;
+        border-image: linear-gradient(90deg, #776bbd 0%, #79a5e7 100%) 20% / 1 / 0 stretch;
+          border-image-source: linear-gradient(90deg, #3f1dbb 0%, #50d45d 100%);
+          padding: 40px 40px 20px;
+          width: 600px;
+          height: 250px;
+      }
